@@ -125,7 +125,7 @@ background-clip: padding-box;
 border: none;
 border: none;
 border-radius: 0px;
--webkit-box-shadow: none);
+-webkit-box-shadow: none;
 box-shadow: none;
 white-space: normal;
 }
